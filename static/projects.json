@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Mail server",
+        "description":"smtp and pop3 servers ",
+        "link":"www.google.com"
+    },
+
+    {
+        "name":"This server",
+        "description":"small 4chan like forum ",
+        "link":""
+    },
+    {
+        "name":"Chet room",
+        "description":"live chat site ",
+        "link":""
+    },
+    {
+        "name":"Video platform",
+        "description":"live chat site ",
+        "link":""
+    }
+]

@@ -1,0 +1,1 @@
+const gas=require('./test.json')
